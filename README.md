@@ -9,7 +9,7 @@
 > to list the benefits of the AWS new service.
 
 ### Prerequisite
-- git
+- Git
 - GitHub 
 
 ### Topics
@@ -23,10 +23,10 @@
 	- https://aws.amazon.com/health/solutions/medicalimaging/
 
 ### Plan
-1. create GitHub account
-2. create AWS account
-3. use the HealthImaging service to upload DICOMs
-4. retrieve the DICOMs from HealthImaging service to view it
+1. Create GitHub account
+2. Create AWS account
+3. Use the HealthImaging service to upload DICOMs
+4. Retrieve the DICOMs from HealthImaging service to view it
 
 ### Skills
 > Cloud, Image Processing, AWS, NodeJs, Git, GitHub
